@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-labelledby="title">
+<title id="title">SMS-сервис, который не теряет сообщения</title>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#182440"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+<linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#E2B75A"/><stop offset="1" stop-color="#E2B75A" stop-opacity="0"/></linearGradient>
+
+</defs>
+<rect width="480" height="200" rx="20" fill="url(#panel)"/>
+<rect x="0.5" y="0.5" width="479" height="199" rx="19.5" fill="none" stroke="#233252"/>
+<path d="M28 40 h20 v8 h-20 z" fill="#E2B75A"/>
+<text x="60" y="48" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="2.4" fill="#E2B75A">АРХИТЕКТУРА · 7 МИН</text>
+<text x="28" y="88" font-family="Georgia, 'PT Serif', 'Times New Roman', serif" font-size="23" font-weight="700" fill="#E8EDF7">SMS-сервис, который не теряет</text>
+<text x="28" y="116" font-family="Georgia, 'PT Serif', 'Times New Roman', serif" font-size="23" font-weight="700" fill="#E8EDF7">сообщения</text>
+<text x="28" y="148" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8C97AD">Очередь, идемпотентность, повторы и честный журнал доставки.</text>
+<text x="452" y="182" text-anchor="end" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E2B75A">Читать статью →</text>
+</svg>
