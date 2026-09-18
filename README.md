@@ -623,4 +623,4 @@ SVG-графика видна сразу, без JavaScript и раскрыва�
 
 <p align="center"><a href="https://github.com/danielmanzuckerberg-tech">GitHub</a> &nbsp; / &nbsp; <a href="https://github.com/danielmanzuckerberg-tech?tab=repositories">Репозитории</a> &nbsp; / &nbsp; <a href="./articles/otp-bez-oshibok.md">Журнал</a> &nbsp; / &nbsp; <a href="#about">Наверх ↑</a></p>
 
-<p align="center"><sub>MORITZ / DEVELOPER<br />Code. Dream. Set sail.<br />One Piece inspired. Неофициальный фан-дизайн.</sub></p>
+<p align="center"><sub>MORITZ / DEVELOPER<br />Code. Dream. Set sail.</sub></p>
