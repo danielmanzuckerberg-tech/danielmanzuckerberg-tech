@@ -1,37 +1,31 @@
-<!--
-MORITZ — ONE PIECE PROFILE
-
-Как установить на GitHub:
-1. Создай публичный репозиторий, имя которого ТОЧНО совпадает с твоим GitHub-логином.
-   Например: login/login. Moritz — имя в оформлении, не обязательно твой логин.
-2. Загрузи этот README.md и папку assets в корень репозитория.
-3. Заполни свой стек, описание и карточки проектов ниже.
-4. Свои контакты и ссылки добавляй только с настоящим GitHub-логином.
-
-Биография, возраст, университет, навыки и проекты автора исходного примера
-намеренно не перенесены. Все изображения локальные; сохрани папку assets рядом
-с README.md. Сайт-предпросмотр и его зависимости для GitHub не нужны.
--->
-
 <div align="center">
 
-<img src="./assets/moritz-banner.png" width="100%" alt="Moritz — Code. Dream. Set sail. Луффи из One Piece на фоне ночного моря" />
+<img src="./moritz-banner.png" width="100%" alt="Moritz — Code. Dream. Set sail. Луффи из One Piece на фоне ночного моря" />
 
 <br />
 <br />
 
-<img src="./assets/profile-badges.png" width="540" alt="Moritz · Code & Adventure · One Piece" />
+<img src="./profile-badges.png" width="540" alt="Moritz · Code & Adventure · One Piece" />
 
 <br />
 <br />
 
 <em>Большие мечты. Свободный курс. Своя история.</em>
 
+<br />
+<br />
+
+<a href="https://github.com/danielmanzuckerberg-tech"><b>Мой GitHub</b></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/danielmanzuckerberg-tech?tab=repositories"><b>Все репозитории</b></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/danielmanzuckerberg-tech/joy-kerry"><b>Marketplace</b></a>
+
 </div>
 
 <br />
 
-<img src="./assets/section-about.png" width="100%" alt="Обо мне — знакомство с капитаном" />
+<img src="./section-about.png" width="100%" alt="Обо мне — знакомство с капитаном" />
 
 <table>
 <tr>
@@ -53,12 +47,12 @@ MORITZ — ONE PIECE PROFILE
 
 > Необязательно знать весь маршрут, чтобы отправиться в путь.
 
-<!-- Добавь здесь пару предложений о себе: чем занимаешься, что изучаешь и над чем работаешь. -->
+На GitHub — [@danielmanzuckerberg-tech](https://github.com/danielmanzuckerberg-tech).
 
 </td>
 <td width="36%" align="center" valign="middle">
 
-<img src="./assets/luffy-portrait.png" width="310" alt="Улыбающийся Луффи в соломенной шляпе. Stay free. Dream big." />
+<img src="./luffy-portrait.png" width="310" alt="Улыбающийся Луффи в соломенной шляпе. Stay free. Dream big." />
 
 </td>
 </tr>
@@ -66,99 +60,66 @@ MORITZ — ONE PIECE PROFILE
 
 <br />
 
-<img src="./assets/section-stack.png" width="100%" alt="Стек и инструменты — снаряжение для новых задач" />
+<img src="./section-projects.png" width="100%" alt="Проекты — острова на моей карте" />
 
-<!-- Замени подсказки в таблице своим реальным стеком. Текст редактируется прямо здесь, картинки менять не нужно. -->
-
-<table>
-<tr>
-<th width="33%" align="left">ЯЗЫКИ</th>
-<th width="34%" align="left">ФРЕЙМВОРКИ И ДАННЫЕ</th>
-<th width="33%" align="left">ИНСТРУМЕНТЫ</th>
-</tr>
-<tr>
-<td valign="top">
-
-Языки, на которых я пишу.
-
-<code>Добавь свои языки</code>
-
-</td>
-<td valign="top">
-
-То, с чем я создаю проекты.
-
-<code>Добавь свой стек</code>
-
-</td>
-<td valign="top">
-
-Мой рабочий набор.
-
-<code>Добавь инструменты</code>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Сейчас изучаю</b></summary>
-
-<br />
-
-<!-- Заполни и при желании добавь новые строки. -->
-
-| Направление | Ближайшая цель |
-| :--- | :--- |
-| Технология или навык | Что хочу освоить на практике |
-| Личный проект | Что хочу создать или улучшить |
-
-</details>
-
-<br />
-
-<img src="./assets/section-projects.png" width="100%" alt="Проекты — острова на моей карте" />
-
-<!-- Вместо подсказок добавь свои проекты. Для ссылки используй [Название](настоящая-ссылка-на-репозиторий). -->
+<p align="center">Каждый репозиторий — новая точка на карте.</p>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/project-voyage.png" width="100%" alt="Луффи отправляется в новое путешествие — карточка первого проекта" />
+<a href="https://github.com/danielmanzuckerberg-tech/joy-kerry">
+<img src="./project-voyage.png" width="100%" alt="Открыть joy-kerry — Луффи отправляется в новое путешествие" />
+</a>
 
-### Твой первый проект
+### joy-kerry
 
-Добавь название и пару предложений: какую задачу решает проект и что в нём самое интересное.
+**Luxury Digital Marketplace**
 
-<code>Технологии проекта</code>
+Архив проекта в формате ZIP. Все опубликованные материалы — в репозитории.
 
-**Ссылка:** добавь свой репозиторий.
+<code>Marketplace</code> <code>ZIP</code>
+
+<br />
+<br />
+
+[Открыть репозиторий →](https://github.com/danielmanzuckerberg-tech/joy-kerry)
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/project-horizon.png" width="100%" alt="Луффи смотрит на морской горизонт — карточка следующего проекта" />
+<a href="https://github.com/danielmanzuckerberg-tech/joyy">
+<img src="./project-horizon.png" width="100%" alt="Открыть joyy — Луффи смотрит на морской горизонт" />
+</a>
 
-### Следующая остановка
+### joyy
 
-Здесь может быть ещё один проект, небольшой эксперимент или идея, над которой ты работаешь.
+**Luxury Digital Marketplace**
 
-<code>Технологии проекта</code>
+Архив проекта в формате RAR. Ещё один способ познакомиться с материалами.
 
-**Ссылка:** добавь свой репозиторий.
+<code>Marketplace</code> <code>RAR</code>
+
+<br />
+<br />
+
+[Открыть репозиторий →](https://github.com/danielmanzuckerberg-tech/joyy)
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+<a href="https://github.com/danielmanzuckerberg-tech?tab=repositories"><b>Посмотреть все репозитории →</b></a>
+</p>
+
 <br />
 
-<img src="./assets/section-interests.png" width="100%" alt="Интересы — за пределами репозиториев" />
+<img src="./section-interests.png" width="100%" alt="Интересы — за пределами репозиториев" />
 
 <div align="center">
 
-<img src="./assets/interests-scene.png" width="100%" alt="Луффи читает на палубе: манга, ноутбук и компас в свете фонаря" />
+<img src="./interests-scene.png" width="100%" alt="Луффи читает на палубе: манга, ноутбук и компас в свете фонаря" />
 
 </div>
 
@@ -168,13 +129,11 @@ MORITZ — ONE PIECE PROFILE
 - **Идеи и эксперименты** — повод попробовать что-то новое.
 - **Новые горизонты** — всегда есть чему научиться.
 
-<!-- Добавь свои интересы и удали то, что тебе не подходит. -->
-
 <br />
 
 <div align="center">
 
-<img src="./assets/moritz-outro.png" width="100%" alt="The adventure continues — Луффи смотрит на закат с носа корабля" />
+<img src="./moritz-outro.png" width="100%" alt="The adventure continues — Луффи смотрит на закат с носа корабля" />
 
 <br />
 <br />
