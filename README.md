@@ -57,8 +57,8 @@
 <p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-activity-mobile.svg" /><img src="./assets/logbook-activity.svg" width="100%" alt="Активность GitHub: 720 вкладов, 59 активных дней." /></picture></a></p>
 <p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-calendar-mobile.svg" /><img src="./assets/logbook-calendar.svg" width="100%" alt="Календарь активности GitHub: 2025-09-13 — 2026-09-19." /></picture></a></p>
 
-<h3>Вклады по месяцам</h3>
-<table><thead><tr><th>Месяц</th><th>Вклады</th></tr></thead><tbody><tr><td>2025-09</td><td>0</td></tr><tr><td>2025-10</td><td>0</td></tr><tr><td>2025-11</td><td>0</td></tr><tr><td>2025-12</td><td>0</td></tr><tr><td>2026-01</td><td>30</td></tr><tr><td>2026-02</td><td>356</td></tr><tr><td>2026-03</td><td>112</td></tr><tr><td>2026-04</td><td>98</td></tr><tr><td>2026-05</td><td>70</td></tr><tr><td>2026-06</td><td>15</td></tr><tr><td>2026-07</td><td>26</td></tr><tr><td>2026-08</td><td>1</td></tr><tr><td>2026-09</td><td>12</td></tr></tbody></table>
+<p><a href="./catalog/monthly-contributions.csv"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-monthly-mobile.svg" /><img src="./assets/logbook-monthly.svg" width="100%" alt="Вклады по месяцам. 720 за период. 2025-09: 0; 2025-10: 0; 2025-11: 0; 2025-12: 0; 2026-01: 30; 2026-02: 356; 2026-03: 112; 2026-04: 98; 2026-05: 70; 2026-06: 15; 2026-07: 26; 2026-08: 1; 2026-09: 12. Открыть данные CSV." /></picture></a></p>
+<p><a href="./catalog/monthly-contributions.csv">Вклады по месяцам · скачать все данные CSV →</a></p>
 <!-- web:activity:end -->
 
 <p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview">Проверить актуальные данные на GitHub →</a></p>
@@ -128,7 +128,7 @@
 
 <p><a href="./catalog/languages.csv"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-atlas-mobile.svg" /><img src="./assets/logbook-atlas.svg" width="100%" alt="1011 языков и форматов. Открыть полный каталог с поиском." /></picture></a></p>
 
-<picture><source media="(max-width: 640px)" srcset="./assets/logbook-catalogue-chart-mobile.svg" /><img src="./assets/logbook-catalogue-chart.svg" width="100%" alt="Состав каталога по типам. Это распределение справочника, а не оценка моих навыков." /></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/logbook-catalogue-chart-mobile.svg" /><img src="./assets/logbook-catalogue-chart.svg" width="100%" alt="Состав каталога по типам. Это распределение справочника, а не ��ценка моих навыков." /></picture>
 
 <h3>Авторская подборка · 407 названий / 16 направлений</h3>
 <p>Современные, исторические, специализированные и экспериментальные языки. Все направления раскрыты. Это каталог для изучения, а не заявление о владении каждым из них.</p>
