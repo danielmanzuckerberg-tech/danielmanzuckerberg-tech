@@ -1,59 +1,104 @@
 <a href="https://github.com/danielmanzuckerberg-tech"><picture><source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="./assets/hero-mobile-static.png" /><source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png" /><img src="./assets/hero.svg" width="100%" alt="MORITZ. Code with intention. Dream without limits. Backend · APIs · Systems." /></picture></a>
 
-<p align="center">
-<a href="#about">Обо мне</a> &nbsp; / &nbsp; <a href="#projects">Проекты</a> &nbsp; / &nbsp; <a href="#stack">Стек</a> &nbsp; / &nbsp; <a href="#articles">Заметки</a> &nbsp; / &nbsp; <a href="#contact">На связи</a>
-</p>
+<p align="center"><a href="#about">Обо мне</a> &nbsp; / &nbsp; <a href="#projects">Проекты</a> &nbsp; / &nbsp; <a href="#stats">Активность</a> &nbsp; / &nbsp; <a href="#stack">Языки</a> &nbsp; / &nbsp; <a href="#lab">3D Lab</a> &nbsp; / &nbsp; <a href="#articles">Журнал</a> &nbsp; / &nbsp; <a href="#contact">На связи</a></p>
 
 <a id="about"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-about-mobile.svg" /><img src="./assets/section-about.svg" width="100%" alt="Обо мне" /></picture></h2>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-about-mobile.svg" /><img src="./assets/logbook-section-about.svg" width="100%" alt="Обо мне" /></picture></h2>
 
 **Привет, я Moritz.** Занимаюсь backend-разработкой: API, одноразовые коды, сообщения, сетевые инструменты. Люблю системы, в которых сложное становится понятным.
 
-Этот профиль — мой журнал проектов и экспериментов. В коде ценю надёжность, в работе — любопытство. А у Луффи учусь не терять из виду горизонт.
+Этот профиль — мой бортовой журнал. Здесь проекты, инженерные заметки и эксперименты, которые помогают двигаться дальше. В коде ценю надёжность, в работе — любопытство. А у Луффи учусь не терять из виду горизонт.
 
 <picture><source media="(max-width: 640px)" srcset="./assets/principles-mobile.svg" /><img src="./assets/principles.svg" width="100%" alt="Build. Learn. Repeat. Делать надёжно, оставаться любопытным, двигаться дальше." /></picture>
 
 <a id="projects"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-projects-mobile.svg" /><img src="./assets/section-projects.svg" width="100%" alt="Проекты" /></picture></h2>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-projects-mobile.svg" /><img src="./assets/logbook-section-projects.svg" width="100%" alt="Проекты" /></picture></h2>
 
-Публичные материалы и сборки, которыми можно поделиться.
+**Публичные проекты.** Репозитории, которые действительно доступны. Архивные сборки отмечены отдельно от исходного кода.
 
-<p><a href="https://github.com/danielmanzuckerberg-tech/joy-kerry"><picture><source media="(max-width: 640px)" srcset="./assets/project-joy-kerry-mobile.svg" /><img src="./assets/project-joy-kerry.svg" width="100%" alt="joy-kerry. Luxury Digital Marketplace. Публичная ZIP-сборка проекта. Открыть репозиторий." /></picture></a></p>
-
-<p><a href="https://github.com/danielmanzuckerberg-tech/joyy"><picture><source media="(max-width: 640px)" srcset="./assets/project-joyy-mobile.svg" /><img src="./assets/project-joyy.svg" width="100%" alt="joyy. Альтернативная сборка маркетплейса в RAR-архиве. Открыть репозиторий." /></picture></a></p>
+<!-- web:projects:start -->
+<p><a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-project-profile-mobile.svg" /><img src="./assets/logbook-project-profile.svg" width="100%" alt="Moritz / Logbook. Профиль, SVG-графика, статьи и каталог языков. Открыть исходные материалы." /></picture></a></p>
+<p><a href="https://github.com/danielmanzuckerberg-tech/joy-kerry"><picture><source media="(max-width: 640px)" srcset="./assets/project-joy-kerry-mobile.svg" /><img src="./assets/project-joy-kerry.svg" width="100%" alt="joy-kerry. Публичная ZIP-сборка Luxury Digital Marketplace." /></picture></a></p>
+<p><a href="https://github.com/danielmanzuckerberg-tech/joyy"><picture><source media="(max-width: 640px)" srcset="./assets/project-joyy-mobile.svg" /><img src="./assets/project-joyy.svg" width="100%" alt="joyy. Альтернативная сборка маркетплейса в RAR-архиве." /></picture></a></p>
 
 <details>
-<summary><b>Сервисы и эксперименты</b> · ещё 7 направлений</summary>
-<p>OTP, сообщения, сеть и инструменты разработчика. Для названий без доступного публичного репозитория ссылки открывают поиск в моих репозиториях.</p>
+<summary><b>Семь идей в работе</b> · сервисы, архитектура и разборы</summary>
+<p>Это архитектурные концепты, а не заявления о запущенных публичных сервисах. У каждого — отдельная страница с задачей, устройством и критериями готовности. Существующие иллюстрации сохранены; статус определяется этим описанием.</p>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=luffy-sms"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-sms-mobile.svg" /><img src="./assets/project-luffy-sms.svg" width="100%" alt="Luffy SMS. SMS-сервисы, доставка сообщений и уведомления. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Alpha OTP</b> · Одноразовые коды: срок жизни, лимиты и атомарная проверка.</summary>
+<p><a href="./projects/alpha-otp.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-alpha-otp-mobile.svg" /><img src="./assets/project-alpha-otp.svg" width="100%" alt="Alpha OTP. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/alpha-otp.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=alpha-otp"><picture><source media="(max-width: 640px)" srcset="./assets/project-alpha-otp-mobile.svg" /><img src="./assets/project-alpha-otp.svg" width="100%" alt="Alpha OTP. Одноразовые коды и безопасный доступ. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>RDX OTP</b> · Проверка кодов и идемпотентный протокол подтверждения.</summary>
+<p><a href="./projects/rdx-otp.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-rdx-otp-mobile.svg" /><img src="./assets/project-rdx-otp.svg" width="100%" alt="RDX OTP. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/rdx-otp.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=rdx-otp"><picture><source media="(max-width: 640px)" srcset="./assets/project-rdx-otp-mobile.svg" /><img src="./assets/project-rdx-otp.svg" width="100%" alt="RDX OTP. Аутентификация и сценарии проверки кодов. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Luffy SMS</b> · Доставка сообщений через очередь, повторы и статусы.</summary>
+<p><a href="./projects/luffy-sms.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-sms-mobile.svg" /><img src="./assets/project-luffy-sms.svg" width="100%" alt="Luffy SMS. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/luffy-sms.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=note-sms"><picture><source media="(max-width: 640px)" srcset="./assets/project-note-sms-mobile.svg" /><img src="./assets/project-note-sms.svg" width="100%" alt="Note SMS. Заметки, напоминания и SMS-уведомления. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Note SMS</b> · Напоминания с часовыми поясами и отменой запланированной отправки.</summary>
+<p><a href="./projects/note-sms.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-note-sms-mobile.svg" /><img src="./assets/project-note-sms.svg" width="100%" alt="Note SMS. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/note-sms.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=nice-proxy"><picture><source media="(max-width: 640px)" srcset="./assets/project-nice-proxy-mobile.svg" /><img src="./assets/project-nice-proxy.svg" width="100%" alt="Nice Proxy. Прокси и сетевые инструменты. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Nice Proxy</b> · Мониторинг и диагностика собственных прокси-серверов.</summary>
+<p><a href="./projects/nice-proxy.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-nice-proxy-mobile.svg" /><img src="./assets/project-nice-proxy.svg" width="100%" alt="Nice Proxy. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/nice-proxy.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=luffy-domains"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-domains-mobile.svg" /><img src="./assets/project-luffy-domains.svg" width="100%" alt="Luffy Domains. Домены, DNS и мониторинг сертификатов. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Luffy Domains</b> · Сроки регистрации, DNS и сертификаты в одном журнале.</summary>
+<p><a href="./projects/luffy-domains.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-domains-mobile.svg" /><img src="./assets/project-luffy-domains.svg" width="100%" alt="Luffy Domains. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/luffy-domains.md">Задача, архитектура и план →</a></p>
+</details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories&amp;q=luffy-stars"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-stars-mobile.svg" /><img src="./assets/project-luffy-stars.svg" width="100%" alt="Luffy Stars. Звёзды, репозитории и активность на GitHub. Открыть поиск по репозиториям." /></picture></a></p>
+<details>
+<summary><b>Luffy Stars</b> · Наблюдение за публичными репозиториями и историей их роста.</summary>
+<p><a href="./projects/luffy-stars.md"><picture><source media="(max-width: 640px)" srcset="./assets/project-luffy-stars-mobile.svg" /><img src="./assets/project-luffy-stars.svg" width="100%" alt="Luffy Stars. Архитектурный концепт. Читать описание и план реализации." /></picture></a></p>
+<p><a href="./projects/luffy-stars.md">Задача, архитектура и план →</a></p>
+</details>
 
 </details>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories"><b>Все репозитории →</b></a></p>
+<!-- web:projects:end -->
+
+<p><a href="https://github.com/danielmanzuckerberg-tech?tab=repositories"><b>Все публичные репозитории →</b></a> &nbsp; · &nbsp; <a href="./models/moritz-compass.stl">Новый эксперимент: 3D-компас →</a></p>
+
+<a id="stats"></a>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-stats-mobile.svg" /><img src="./assets/logbook-section-stats.svg" width="100%" alt="Активность" /></picture></h2>
+
+Не декоративные цифры — снимок настоящего календаря GitHub. Обновлено **2026-09-18**. Вклады включают разные виды активности и не равны количеству коммитов; крайние месяцы неполные.
+
+<!-- web:activity:start -->
+<p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-activity-mobile.svg" /><img src="./assets/logbook-activity.svg" width="100%" alt="Активность GitHub: 720 вкладов, 59 активных дней." /></picture></a></p>
+<p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-calendar-mobile.svg" /><img src="./assets/logbook-calendar.svg" width="100%" alt="Календарь активности GitHub: 2025-09-13 — 2026-09-19." /></picture></a></p>
+<!-- web:activity:end -->
+
+<p><a href="https://github.com/danielmanzuckerberg-tech?tab=overview">Проверить актуальные данные на GitHub →</a></p>
 
 <a id="stack"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-stack-mobile.svg" /><img src="./assets/section-stack.svg" width="100%" alt="Стек и языки" /></picture></h2>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-stack-mobile.svg" /><img src="./assets/logbook-section-stack.svg" width="100%" alt="Стек и языки" /></picture></h2>
 
-Инструмент под задачу, а не задача под инструмент.
+**Инструмент под задачу, а не задача под инструмент.** Мой рабочий фокус и большой справочник для любопытства — разные вещи.
 
-<picture><source media="(max-width: 640px)" srcset="./assets/toolbox-mobile.svg" /><img src="./assets/toolbox.svg" width="100%" alt="Языки: TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C++. Разработка: React, Next.js, FastAPI, Django, Node.js, Bun, Deno. Инфраструктура: PostgreSQL, Redis, Docker, Linux, Git, GitHub, Vercel." /></picture>
+<a href="./catalog/languages.csv"><picture><source media="(max-width: 640px)" srcset="./assets/toolbox-mobile.svg" /><img src="./assets/toolbox.svg" width="100%" alt="Языки, разработка и инфраструктура: TypeScript, JavaScript, Python, Go, Rust, React, Next.js, PostgreSQL, Docker и другие инструменты. Открыть каталог со ссылками." /></picture></a>
+
+<p><a href="./catalog/languages.csv"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-atlas-mobile.svg" /><img src="./assets/logbook-atlas.svg" width="100%" alt="1011 языков и форматов. Открыть полный каталог с поиском." /></picture></a></p>
+
+<picture><source media="(max-width: 640px)" srcset="./assets/logbook-catalogue-chart-mobile.svg" /><img src="./assets/logbook-catalogue-chart.svg" width="100%" alt="Состав каталога по типам. Это распределение справочника, а не оценка моих навыков." /></picture>
 
 <details>
-<summary><b>Большой каталог языков</b> · 407 названий / 16 групп</summary>
-<p>Полная подборка из моего стека: современные, исторические, специализированные и экспериментальные языки. Это каталог для изучения, а не заявление о владении каждым из них. Ссылки ведут на документацию, сайты проектов и справочные страницы.</p>
+<summary><b>Моя подборка</b> · 407 названий / 16 направлений</summary>
+<p>Современные, исторические, специализированные и экспериментальные языки. Это каталог для изучения, а не заявление о владении каждым из них.</p>
 
 <details>
 <summary><b>Системные и низкоуровневые</b> · 32</summary>
@@ -117,7 +162,7 @@
 
 <details>
 <summary><b>Игры и сценарные DSL</b> · 22</summary>
-<p><a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html">GDScript</a> &nbsp;·&nbsp; <a href="https://luau.org">Luau (Roblox)</a> &nbsp;·&nbsp; <a href="https://docs.unity3d.com/Manual/ScriptingSection.html">C# (Unity)</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/unreal-engine/programming-with-cplusplus-in-unreal-engine">C++ (Unreal)</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine">Blueprints</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/UnrealScript">UnrealScript</a> &nbsp;·&nbsp; <a href="https://manual.gamemaker.io">GML (GameMaker)</a> &nbsp;·&nbsp; <a href="https://ck.uesp.net/wiki/Category:Papyrus">Papyrus</a> &nbsp;·&nbsp; <a href="https://www.angelcode.com/angelscript/">AngelScript</a> &nbsp;·&nbsp; <a href="http://www.squirrel-lang.org">Squirrel</a> &nbsp;·&nbsp; <a href="https://wren.io">Wren</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Pawn_(programming_language)">Pawn</a> &nbsp;·&nbsp; <a href="https://wiki.alliedmods.net/SourcePawn">SourcePawn</a> &nbsp;·&nbsp; <a href="https://zdoom.org/wiki/ZScript">ZScript</a> &nbsp;·&nbsp; <a href="https://www.inklestudios.com/ink/">Ink (narrative)</a> &nbsp;·&nbsp; <a href="https://www.yarnspinner.dev">Yarn Spinner</a> &nbsp;·&nbsp; <a href="https://www.renpy.org">Ren'Py</a> &nbsp;·&nbsp; <a href="https://twinery.org">Twine / Harlowe</a> &nbsp;·&nbsp; <a href="https://love2d.org">Lua (Defold / LÖVE)</a> &nbsp;·&nbsp; <a href="https://haxeflixel.com">Haxe (HaxeFlixel)</a> &nbsp;·&nbsp; <a href="https://bitsy.org">Bitsy</a> &nbsp;·&nbsp; <a href="https://www.lexaloffle.com/pico-8.php">PICO-8 Lua</a></p>
+<p><a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html">GDScript</a> &nbsp;·&nbsp; <a href="https://luau.org">Luau (Roblox)</a> &nbsp;·&nbsp; <a href="https://docs.unity3d.com/Manual/ScriptingSection.html">C# (Unity)</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/unreal-engine/programming-with-cplusplus-in-unreal-engine">C++ (Unreal)</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine">Blueprints</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/UnrealScript">UnrealScript</a> &nbsp;·&nbsp; <a href="https://manual.gamemaker.io">GML (GameMaker)</a> &nbsp;·&nbsp; <a href="https://ck.uesp.net/wiki/Category:Papyrus">Papyrus</a> &nbsp;·&nbsp; <a href="https://www.angelcode.com/angelscript/">AngelScript</a> &nbsp;·&nbsp; <a href="https://github.com/albertodemichelis/squirrel">Squirrel</a> &nbsp;·&nbsp; <a href="https://wren.io">Wren</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Pawn_(programming_language)">Pawn</a> &nbsp;·&nbsp; <a href="https://wiki.alliedmods.net/SourcePawn">SourcePawn</a> &nbsp;·&nbsp; <a href="https://zdoom.org/wiki/ZScript">ZScript</a> &nbsp;·&nbsp; <a href="https://www.inklestudios.com/ink/">Ink (narrative)</a> &nbsp;·&nbsp; <a href="https://www.yarnspinner.dev">Yarn Spinner</a> &nbsp;·&nbsp; <a href="https://www.renpy.org">Ren'Py</a> &nbsp;·&nbsp; <a href="https://twinery.org">Twine / Harlowe</a> &nbsp;·&nbsp; <a href="https://love2d.org">Lua (Defold / LÖVE)</a> &nbsp;·&nbsp; <a href="https://haxeflixel.com">Haxe (HaxeFlixel)</a> &nbsp;·&nbsp; <a href="https://bitsy.org">Bitsy</a> &nbsp;·&nbsp; <a href="https://www.lexaloffle.com/pico-8.php">PICO-8 Lua</a></p>
 </details>
 
 <details>
@@ -132,46 +177,66 @@
 
 <details>
 <summary><b>Молодые и нишевые</b> · 32</summary>
-<p><a href="https://higherorderco.com">Bend</a> &nbsp;·&nbsp; <a href="https://austral-lang.org">Austral</a> &nbsp;·&nbsp; <a href="https://grain-lang.org">Grain</a> &nbsp;·&nbsp; <a href="https://strlen.com/lobster/">Lobster</a> &nbsp;·&nbsp; <a href="https://ballerina.io">Ballerina</a> &nbsp;·&nbsp; <a href="https://chapel-lang.org">Chapel</a> &nbsp;·&nbsp; <a href="https://www.ponylang.io">Pony</a> &nbsp;·&nbsp; <a href="https://www.red-lang.org">Red</a> &nbsp;·&nbsp; <a href="http://www.rebol.com">Rebol</a> &nbsp;·&nbsp; <a href="https://iolanguage.org">Io</a> &nbsp;·&nbsp; <a href="https://factorcode.org">Factor</a> &nbsp;·&nbsp; <a href="https://janet-lang.org">Janet</a> &nbsp;·&nbsp; <a href="https://fennel-lang.org">Fennel</a> &nbsp;·&nbsp; <a href="https://hylang.org">Hy</a> &nbsp;·&nbsp; <a href="https://nelua.io">Nelua</a> &nbsp;·&nbsp; <a href="https://terralang.org">Terra</a> &nbsp;·&nbsp; <a href="https://ring-lang.github.io">Ring</a> &nbsp;·&nbsp; <a href="https://seed7.sourceforge.net">Seed7</a> &nbsp;·&nbsp; <a href="https://www.beeflang.org">Beef</a> &nbsp;·&nbsp; <a href="https://github.com/vtereshkov/umka-lang">Umka</a> &nbsp;·&nbsp; <a href="https://elena-lang.github.io">Elena</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Cobra_(programming_language)">Cobra</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Falcon_(programming_language)">Falcon</a> &nbsp;·&nbsp; <a href="https://nekovm.org">Neko</a> &nbsp;·&nbsp; <a href="https://dafny.org">Dafny</a> &nbsp;·&nbsp; <a href="https://whiley.org">Whiley</a> &nbsp;·&nbsp; <a href="https://antelang.org">Ante</a> &nbsp;·&nbsp; <a href="https://inko-lang.org">Inko</a> &nbsp;·&nbsp; <a href="https://www.moonbitlang.com">Moonbit</a> &nbsp;·&nbsp; <a href="https://onyxlang.io">Onyx</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/uefn/verse-language-reference">Verse</a> &nbsp;·&nbsp; <a href="https://www.wolframalpha.com">Wolfram Alpha syntax</a></p>
+<p><a href="https://higherorderco.com">Bend</a> &nbsp;·&nbsp; <a href="https://austral-lang.org">Austral</a> &nbsp;·&nbsp; <a href="https://grain-lang.org">Grain</a> &nbsp;·&nbsp; <a href="https://strlen.com/lobster/">Lobster</a> &nbsp;·&nbsp; <a href="https://ballerina.io">Ballerina</a> &nbsp;·&nbsp; <a href="https://chapel-lang.org">Chapel</a> &nbsp;·&nbsp; <a href="https://www.ponylang.io">Pony</a> &nbsp;·&nbsp; <a href="https://www.red-lang.org">Red</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Rebol">Rebol</a> &nbsp;·&nbsp; <a href="https://iolanguage.org">Io</a> &nbsp;·&nbsp; <a href="https://factorcode.org">Factor</a> &nbsp;·&nbsp; <a href="https://janet-lang.org">Janet</a> &nbsp;·&nbsp; <a href="https://fennel-lang.org">Fennel</a> &nbsp;·&nbsp; <a href="https://hylang.org">Hy</a> &nbsp;·&nbsp; <a href="https://nelua.io">Nelua</a> &nbsp;·&nbsp; <a href="https://terralang.org">Terra</a> &nbsp;·&nbsp; <a href="https://ring-lang.github.io">Ring</a> &nbsp;·&nbsp; <a href="https://seed7.sourceforge.net">Seed7</a> &nbsp;·&nbsp; <a href="https://www.beeflang.org">Beef</a> &nbsp;·&nbsp; <a href="https://github.com/vtereshkov/umka-lang">Umka</a> &nbsp;·&nbsp; <a href="https://elena-lang.github.io">Elena</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Cobra_(programming_language)">Cobra</a> &nbsp;·&nbsp; <a href="https://en.wikipedia.org/wiki/Falcon_(programming_language)">Falcon</a> &nbsp;·&nbsp; <a href="https://nekovm.org">Neko</a> &nbsp;·&nbsp; <a href="https://dafny.org">Dafny</a> &nbsp;·&nbsp; <a href="https://whiley.org">Whiley</a> &nbsp;·&nbsp; <a href="https://antelang.org">Ante</a> &nbsp;·&nbsp; <a href="https://inko-lang.org">Inko</a> &nbsp;·&nbsp; <a href="https://www.moonbitlang.com">Moonbit</a> &nbsp;·&nbsp; <a href="https://onyxlang.io">Onyx</a> &nbsp;·&nbsp; <a href="https://dev.epicgames.com/documentation/uefn/verse-language-reference">Verse</a> &nbsp;·&nbsp; <a href="https://www.wolframalpha.com">Wolfram Alpha syntax</a></p>
 </details>
 
+</details>
+
+<details>
+<summary><b>Весь каталог GitHub Linguist + подборка</b> · 1011 записей</summary>
+<p><a href="./catalog/languages.csv"><b>Открыть CSV с поиском на GitHub →</b></a></p>
+<p>Включены все 835 записей из зафиксированной версии GitHub Linguist и дополнительные названия из авторской подборки. Здесь есть языки программирования, разметка, форматы данных и текст. Это не буквально все когда-либо созданные языки и не перечень освоенных навыков.</p>
+<p><a href="https://github.com/github-linguist/linguist/blob/ee4fb24d13cb21a0eb43b30b52f5cde17fbba8ae/lib/linguist/languages.yml">Источник: GitHub Linguist, версия ee4fb24</a> · <a href="./assets/linguist-LICENSE.txt">Лицензия MIT</a></p>
 </details>
 
 <details>
 <summary><b>Ещё инструменты и платформы</b></summary>
-<p>Vue · Svelte · Tailwind CSS · Express · NestJS · Flask · Laravel · GraphQL · MySQL · SQLite · MongoDB · Supabase · Prisma · Kubernetes · Nginx · GitHub Actions · Cloudflare · AWS · Google Cloud · Figma · VS Code.</p>
+<p><a href="https://vuejs.org">Vue</a> · <a href="https://svelte.dev">Svelte</a> · <a href="https://tailwindcss.com">Tailwind CSS</a> · <a href="https://expressjs.com">Express</a> · <a href="https://nestjs.com">NestJS</a> · <a href="https://flask.palletsprojects.com">Flask</a> · <a href="https://laravel.com">Laravel</a> · <a href="https://graphql.org">GraphQL</a> · <a href="https://www.mysql.com">MySQL</a> · <a href="https://sqlite.org">SQLite</a> · <a href="https://www.mongodb.com">MongoDB</a> · <a href="https://supabase.com">Supabase</a> · <a href="https://www.prisma.io">Prisma</a> · <a href="https://kubernetes.io">Kubernetes</a> · <a href="https://nginx.org">Nginx</a> · <a href="https://docs.github.com/actions">GitHub Actions</a> · <a href="https://www.cloudflare.com">Cloudflare</a> · <a href="https://aws.amazon.com">AWS</a> · <a href="https://cloud.google.com">Google Cloud</a> · <a href="https://www.figma.com">Figma</a> · <a href="https://code.visualstudio.com">VS Code</a>.</p>
 </details>
+
+<a id="lab"></a>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-lab-mobile.svg" /><img src="./assets/logbook-section-lab.svg" width="100%" alt="Лаборатория" /></picture></h2>
+
+Маленький объект с большим смыслом. Латунный корпус, тёмный циферблат и стрелка, которая напоминает: важен не только темп, но и направление.
+
+<p><a href="./models/moritz-compass.stl"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-lab-mobile.svg" /><img src="./assets/logbook-lab.svg" width="100%" alt="3D-компас Moritz. Открыть настоящую модель в просмотрщике STL на GitHub." /></picture></a></p>
+
+<p><a href="./models/moritz-compass.stl"><b>Вращать 3D-модель на GitHub →</b></a> &nbsp; · &nbsp; <a href="./projects/moritz-compass.md">Как устроен эксперимент →</a></p>
+
+SVG-графика остаётся лёгкой и читаемой без JavaScript. Вращение 3D-модели открывается отдельно: GitHub не исполняет WebGL внутри README. Анимации в веб-версии учитывают настройку уменьшения движения.
 
 <a id="articles"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-articles-mobile.svg" /><img src="./assets/section-articles.svg" width="100%" alt="Заметки" /></picture></h2>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-articles-mobile.svg" /><img src="./assets/logbook-section-articles.svg" width="100%" alt="Бортовой журнал" /></picture></h2>
 
-Коротко о вещах, которые важны в разработке.
+**10 заметок о ремесле.** Архитектура, надёжность, безопасность и внимание к деталям. Без выдуманных кейсов и обещаний универсальных рецептов.
 
-<p><a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/blob/main/articles/otp-bez-oshibok.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-otp-bez-oshibok-mobile.svg" /><img src="./assets/article-otp-bez-oshibok.svg" width="100%" alt="OTP без ошибок. Срок жизни, лимиты попыток и безопасное хранение. Читать заметку." /></picture></a></p>
+<!-- web:articles:start -->
+<p><a href="./articles/idempotentnost-api.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-idempotentnost-api-mobile.svg" /><img src="./assets/logbook-article-idempotentnost-api.svg" width="100%" alt="Один запрос. Один результат.. Идемпотентность, конкурентные запросы и повтор без двойного действия. Читать заметку." /></picture></a></p>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/blob/main/articles/sms-servis-kotoryj-ne-teryaet-soobscheniya.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-sms-servis-kotoryj-ne-teryaet-soobscheniya-mobile.svg" /><img src="./assets/article-sms-servis-kotoryj-ne-teryaet-soobscheniya.svg" width="100%" alt="SMS без потерянных сообщений. Очереди, идемпотентность и понятная доставка. Читать заметку." /></picture></a></p>
+<p><a href="./articles/retry-backoff.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-retry-backoff-mobile.svg" /><img src="./assets/logbook-article-retry-backoff.svg" width="100%" alt="Повторять — не значит ломиться.. Backoff, jitter и бюджет повторов без лавины запросов. Читать заметку." /></picture></a></p>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/blob/main/articles/proxy-dlya-razrabotchika.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-proxy-dlya-razrabotchika-mobile.svg" /><img src="./assets/article-proxy-dlya-razrabotchika.svg" width="100%" alt="Прокси для разработчика. HTTP, SOCKS5, ротация и здоровье пула. Читать заметку." /></picture></a></p>
+<p><a href="./articles/postgres-indexes.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-postgres-indexes-mobile.svg" /><img src="./assets/logbook-article-postgres-indexes.svg" width="100%" alt="Индекс — это вопрос к данным.. Как читать EXPLAIN и не индексировать всё подряд. Читать заметку." /></picture></a></p>
 
-<p><a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/blob/main/articles/monitoring-domenov.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-monitoring-domenov-mobile.svg" /><img src="./assets/article-monitoring-domenov.svg" width="100%" alt="Домены без сюрпризов. Сроки регистрации, DNS и SSL под наблюдением. Читать заметку." /></picture></a></p>
+<p><a href="./articles/motion-with-care.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-motion-with-care-mobile.svg" /><img src="./assets/logbook-article-motion-with-care.svg" width="100%" alt="Анимация с чувством меры.. Движение, которое помогает ориентироваться, а не мешает читать. Читать заметку." /></picture></a></p>
 
-<a id="stats"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-stats-mobile.svg" /><img src="./assets/section-stats.svg" width="100%" alt="Активность" /></picture></h2>
+<p><a href="./articles/webhook-signatures.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-webhook-signatures-mobile.svg" /><img src="./assets/logbook-article-webhook-signatures.svg" width="100%" alt="Webhook, которому можно доверять.. Подпись, исходное тело запроса, защита от повторного воспроизведения. Читать заметку." /></picture></a></p>
 
-<details>
-<summary><b>Статистика и графики GitHub</b> · раскрыть</summary>
-<br />
-<p><a href="https://github.com/danielmanzuckerberg-tech"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmanzuckerberg-tech&theme=github_dark" width="100%" alt="Реальная активность профиля GitHub за последний год" /></a></p>
-<p><a href="https://github.com/danielmanzuckerberg-tech"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmanzuckerberg-tech&theme=github_dark" width="49%" alt="Звёзды, коммиты, pull requests и issues на GitHub" /></a> <a href="https://github.com/danielmanzuckerberg-tech"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmanzuckerberg-tech&theme=github_dark&utcOffset=3" width="49%" alt="Распределение коммитов по времени суток, UTC+3" /></a></p>
-<p><a href="https://github.com/danielmanzuckerberg-tech"><img src="https://streak-stats.demolab.com?user=danielmanzuckerberg-tech&hide_border=true&background=0D1117&ring=8AB4FF&fire=8AB4FF&currStreakLabel=8AB4FF&sideLabels=8B98AD&currStreakNum=EDF2FA&sideNums=EDF2FA&dates=8B98AD&stroke=161D29" width="100%" alt="Серия активности на GitHub" /></a></p>
-<p>Данные предоставляют внешние сервисы; обновление может происходить с задержкой. <a href="https://github.com/danielmanzuckerberg-tech?tab=overview">Посмотреть активность прямо на GitHub →</a></p>
-</details>
+<p><a href="./articles/observability-api.md"><picture><source media="(max-width: 640px)" srcset="./assets/logbook-article-observability-api-mobile.svg" /><img src="./assets/logbook-article-observability-api.svg" width="100%" alt="Сервис должен уметь объясняться.. Логи, метрики и трассировка — три разных ответа на один инцидент. Читать заметку." /></picture></a></p>
+
+<p><a href="./articles/otp-bez-oshibok.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-otp-bez-oshibok-mobile.svg" /><img src="./assets/article-otp-bez-oshibok.svg" width="100%" alt="OTP без ошибок. Срок жизни, лимиты попыток и безопасное хранение. Читать заметку." /></picture></a></p>
+
+<p><a href="./articles/sms-servis-kotoryj-ne-teryaet-soobscheniya.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-sms-servis-kotoryj-ne-teryaet-soobscheniya-mobile.svg" /><img src="./assets/article-sms-servis-kotoryj-ne-teryaet-soobscheniya.svg" width="100%" alt="SMS без потерянных сообщений. Очереди, идемпотентность и понятная доставка. Читать заметку." /></picture></a></p>
+
+<p><a href="./articles/proxy-dlya-razrabotchika.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-proxy-dlya-razrabotchika-mobile.svg" /><img src="./assets/article-proxy-dlya-razrabotchika.svg" width="100%" alt="Прокси для разработчика. HTTP, SOCKS5, ротация и здоровье собственного пула. Читать заметку." /></picture></a></p>
+
+<p><a href="./articles/monitoring-domenov.md"><picture><source media="(max-width: 640px)" srcset="./assets/article-monitoring-domenov-mobile.svg" /><img src="./assets/article-monitoring-domenov.svg" width="100%" alt="Домены без сюрпризов. Сроки регистрации, DNS и SSL под наблюдением. Читать заметку." /></picture></a></p>
+<!-- web:articles:end -->
 
 <a id="contact"></a>
-<h2><picture><source media="(max-width: 640px)" srcset="./assets/section-contact-mobile.svg" /><img src="./assets/section-contact.svg" width="100%" alt="На связи" /></picture></h2>
+<h2><picture><source media="(max-width: 640px)" srcset="./assets/logbook-section-contact-mobile.svg" /><img src="./assets/logbook-section-contact.svg" width="100%" alt="На связи" /></picture></h2>
 
 <a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/issues/new"><picture><source media="(max-width: 640px)" srcset="./assets/contact-mobile.svg" /><img src="./assets/contact.svg" width="100%" alt="Есть идея? Давай создадим что-то стоящее. Написать мне на GitHub." /></picture></a>
 
-<p align="center"><a href="https://github.com/danielmanzuckerberg-tech">GitHub</a> &nbsp; / &nbsp; <a href="https://github.com/danielmanzuckerberg-tech?tab=repositories">Репозитории</a> &nbsp; / &nbsp; <a href="https://github.com/danielmanzuckerberg-tech/danielmanzuckerberg-tech/tree/main/articles">Заметки</a></p>
+<p align="center"><a href="https://github.com/danielmanzuckerberg-tech">GitHub</a> &nbsp; / &nbsp; <a href="https://github.com/danielmanzuckerberg-tech?tab=repositories">Репозитории</a> &nbsp; / &nbsp; <a href="./articles/otp-bez-oshibok.md">Журнал</a> &nbsp; / &nbsp; <a href="#about">Наверх ↑</a></p>
 
-<p align="center"><sub>MORITZ · Code. Dream. Set sail.<br />One Piece inspired. Неофициальный фан-дизайн.</sub></p>
+<p align="center"><sub>MORITZ · LOGBOOK<br />Code. Dream. Set sail.<br />One Piece inspired. Неофициальный фан-дизайн.</sub></p>
